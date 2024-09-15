@@ -37,7 +37,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Personally Speaking,</h3>
 				</header>
-				<p>I volunteer my free time to advance DEI wherever I can, helping create safe spaces around me however I can. My personal pursuits include tennis, badminton, ping pong, painting, hiking, photography, and creative writing.</p>
+				<p>The world is full of magic things, patiently waiting for our senses to grow sharper. Having taken up diverse roles in diverse situations, I strongly believe that life is all about flowing with it. Hobbies are crucial in order to maintain one’s sanity and I make it a point to devote a fair amount of my time on honing them. My personal pursuits include tennis, badminton, ping pong, painting, hiking, photography, and creative writing. <br><br>
+				I strongly believe in a world with an equitable distribution of opportunity, mutual respect, and upliftment of the historically subjugated. As part of my efforts to help make the world a better place, I have volunteered with organizations that feed the poor and needy, provided free education which has enabled multiple underprivileged people to get office jobs, and am currently involved in the advocacy efforts of QGrads, the LGBTQ+ Graduate Organization at Cornell University.
+				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
