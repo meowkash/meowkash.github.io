@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: about
-description: 'PhD Student at Cornell University | Low-Power Non-Invasive Medical Devices | Human-Computer Interfaces '
+description: 
 image: assets/images/pic08.jpg
 nav-menu: true
 ---
@@ -28,9 +28,6 @@ nav-menu: true
 					<h3>Professionally Speaking,</h3>
 				</header>
 				<p>I am an electrical and computer engineer by training, currently pursuing a PhD at Cornell University where I use near-field radio sensing for bio-medical applications. Previously, I was employed at Samsung Research as a research engineer where I worked on AutoML and Neural Architecture Search.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn More...</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>

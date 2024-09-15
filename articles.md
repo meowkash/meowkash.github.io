@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Articles
+landing-title: 'Articles'
 nav-menu: true
 description: null
 image: null
@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>All posts</h1>
+<h1>Articles</h1>
