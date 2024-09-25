@@ -3,7 +3,7 @@ title: Aakash
 # subtitle: 
 email: ak2247@cornell.edu
 description: I (try to) make cool things
-baseurl: './' # the subpath of your site, e.g. /blog
+# baseurl: './' # the subpath of your site, e.g. /blog
 url: aakashkap.com # the base hostname & protocol for your site
 author: Aakash Kapoor
 street_address: 300 Phillips Hall
